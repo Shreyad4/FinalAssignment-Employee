@@ -1,0 +1,6 @@
+C:\Users\shreya.d\source\repos\EmployeeWebAPI\EmployeeXUnitTesting\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\shreya.d\source\repos\EmployeeWebAPI\EmployeeXUnitTesting\obj\Debug\net7.0\EmployeeXUnitTesting.csproj.AssemblyReference.cache
+C:\Users\shreya.d\source\repos\EmployeeWebAPI\EmployeeXUnitTesting\obj\Debug\net7.0\EmployeeXUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreya.d\source\repos\EmployeeWebAPI\EmployeeXUnitTesting\obj\Debug\net7.0\EmployeeXUnitTesting.AssemblyInfoInputs.cache
+C:\Users\shreya.d\source\repos\EmployeeWebAPI\EmployeeXUnitTesting\obj\Debug\net7.0\EmployeeXUnitTesting.AssemblyInfo.cs
+C:\Users\shreya.d\source\repos\EmployeeWebAPI\EmployeeXUnitTesting\obj\Debug\net7.0\EmployeeXUnitTesting.csproj.CoreCompileInputs.cache
